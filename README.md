@@ -1,22 +1,10 @@
-# casino-server #
+The struggle of frequenting a brick and mortar betting hall gives us sufficient reason to let it be unless you can't avoid it. Traffic accidents, the struggle, and chores tied to it will not vindicate the trouble for the possibility to place your wager at brick and mortar betting hall, this said if you happen to be the sort who simply craves card-playing then heading for virtual gambling is surely the obvious answer. In fact you won't have to leave the comfort of your home for online gaming for the reason that you can do all this from the comfort of your home assuming you possess a functional laptop or pc plus, obviously, a working internet connection. Even so, you should read on now, as there's lots of tenets which you'll want to become familiar with in regards to online gaming, particularly so if you are green.
 
-[![npm version](https://badge.fury.io/js/casino-server.svg)](http://badge.fury.io/js/casino-server)
+The very first thing which yours truly as a cagey internet player definitely must check out is an online gaming web site of the sort that offers the best odds. Be sure that the online gaming web site has a tie-up with an honest accounting firm to establish their referenced wagers' payout odds routinely. You must take care to ascertain the online casino gaming web site has a verifiable license, for example by checking out the officially certified operating license as recorded on the casino site webpage. Should you be unable to pinpoint any officially certified operating license on your preferred online casino gaming web site, don't think of staking at this place. Visit this top  <a href="https://www.hypercasinos.com" title="online casino">online casino</a> site for tips and cash games.
 
-[![Build Status](https://travis-ci.org/floatinghotpot/casino-server.svg)](https://travis-ci.org/floatinghotpot/casino-server)
+For some more advice, would obviously be to take your chances initially with minute sums instead of blowing more than you can afford right away. Check out the stability of this specific online casino gaming operation rather than provoking any grave menace- particularly so in terms of money! Finally, here is another most crucial hint in regards to virtual casino gaming. It must be this: to recall always that gambling in online casinos should always be concerned with amusement and much less about money. Wagering is definitely no vocation, but, instead, a hobby which can help you become cheery and living gratifying. So, simply having followed the advice above, you can give in to the enticement of online casino gaming!
 
-[![NPM](https://nodei.co/npm-dl/casino-server.png?height=3)](https://nodei.co/npm/casino-server/)
 
-An online poker game server powered by redis, node.js and socket.io
-
-![A](https://github.com/floatinghotpot/casino-server/raw/master/wwwsrc/img/4_14.png) ![A](https://github.com/floatinghotpot/casino-server/raw/master/wwwsrc/img/3_14.png)
-![A](https://github.com/floatinghotpot/casino-server/raw/master/wwwsrc/img/2_14.png)
-  
-Game rules supported:
-- [x] Chat Room (聊天室)
-- [x] Jinhua (诈金花/三张牌)
-- [x] Texas Holdem (德州扑克)
-- [ ] Fight Landlord (斗地主)
-- [ ] Blackjack (21点)
 
 Features: 
 - [x] Cross-platform: powered by node.js, easy to deploy on various platforms.
